@@ -5,7 +5,7 @@ library(shinythemes)
 
 # Set your Environment:
 # Before running the code put the path of the folder with the files:
-setwd("C:/Users/Douglas Henrique/Desktop/Github/CreditCard-Data-Analysis")
+setwd("C:/Users/Douglas Henrique/Desktop/Github/CreditCard-Data-Analysis/dashboard")
 
 # Load the "'.RData'" object (contains the script history: analysis-creditcard):
 load("C:/Users/Douglas Henrique/Desktop/Github/CreditCard-Data-Analysis/.RData")
