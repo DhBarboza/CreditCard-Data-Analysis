@@ -14,3 +14,6 @@ and the interactive dashboard in its respective folder
 
 Dashboard example:
 <img src="/dashboard/screen-fraud-detection.png" alt="image">
+
+## Atention
+If you want to run on your machine do not forget to add the data path, otherwise errors will occur
