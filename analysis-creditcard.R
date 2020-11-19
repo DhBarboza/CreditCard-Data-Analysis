@@ -8,7 +8,7 @@
 # - set in tab separator 
 # - import code:
     library(readr)
-    data_creditcard <- read_delim("C:Users/Douglas Henrique/Desktop/Github/CreditCard-Data-Analysis/data/creditcard_alterado.txt", 
+    data_creditcard <- read_delim("C:<add-file-location>/data/creditcard_alterado.txt", 
                                       "\t", escape_double = FALSE, trim_ws = TRUE)
 
 # 2º STEP = Data Analysis and Exploration:
